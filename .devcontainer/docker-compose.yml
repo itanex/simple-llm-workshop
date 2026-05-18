@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  app:
+    build: .
+    image: llm-from-scratch
+    container_name: llm-from-scratch
+    volumes:
+      - ..:/workspace:cached
+    command: sleep infinity
