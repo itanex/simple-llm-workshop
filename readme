@@ -1,0 +1,8 @@
+# Simple LLM Workshop
+
+This repo is my work folling the repo
+ [angelos-p/llm-from-scratch](https://github.com/angelos-p/llm-from-scratch) which I forked for my own uses.
+
+My fork is [itanex/llm-from-scratch](https://github.com/itanex/llm-from-scratch), which is the version of the original repo workshop instructions.
+
+For all intents and purposes this code is my personal reproduction of the code outlined in the origin repository. It is my attempt at working through the workshop. Any and all rights not already provided by the original author is under my repo [unlicensed](/license)
